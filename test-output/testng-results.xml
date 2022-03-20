@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81" started-at="2022-03-13T18:23:34Z" finished-at="2022-03-13T18:23:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81" started-at="2022-03-13T18:23:34Z" finished-at="2022-03-13T18:23:34Z">
+      <class name="com.scp.testng.A">
+        <test-method status="PASS" signature="second()[pri:-1, instance:com.scp.testng.A@cb5822]" name="second" duration-ms="16" started-at="2022-03-13T23:53:34Z" finished-at="2022-03-13T23:53:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method status="PASS" signature="bs()[pri:0, instance:com.scp.testng.A@cb5822]" name="bs" duration-ms="1" started-at="2022-03-13T23:53:34Z" finished-at="2022-03-13T23:53:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method status="PASS" signature="aa()[pri:1, instance:com.scp.testng.A@cb5822]" name="aa" duration-ms="8" started-at="2022-03-13T23:53:34Z" finished-at="2022-03-13T23:53:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aa -->
+        <test-method status="PASS" signature="pa()[pri:1, instance:com.scp.testng.A@cb5822]" name="pa" duration-ms="0" started-at="2022-03-13T23:53:34Z" finished-at="2022-03-13T23:53:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pa -->
+      </class> <!-- com.scp.testng.A -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
